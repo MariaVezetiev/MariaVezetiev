@@ -17,5 +17,4 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="Mariacartoon" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/61ab479f7a64c1fce5bfe8fd8b0a95ad.gif">
 </div>
-  
-    ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
